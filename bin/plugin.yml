@@ -1,7 +1,0 @@
-name: AntiVpn
-version: 1.0
-main: alex9.antivpn.main
-description: A plugin to completely ban VPN's from your server.
-commands:
-    antivpn:
-        usage: lol? /antivpn
